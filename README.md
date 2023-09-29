@@ -34,7 +34,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![avl(2)](https://github.com/thanhtaita/Job-Search/assets/102627561/c7238eae-ffe4-4f56-bc7d-fdcc37fb193d)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 
