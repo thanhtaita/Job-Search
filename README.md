@@ -33,7 +33,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![avl(2)](https://github.com/thanhtaita/Job-Search/assets/102627561/c7238eae-ffe4-4f56-bc7d-fdcc37fb193d)
+![avl(2)](https://github.com/thanhtaita/Job-Search/assets/102627561/8064824d-604d-4520-b4e8-9d339938ca1b)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 
