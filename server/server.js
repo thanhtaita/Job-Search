@@ -1,4 +1,5 @@
 import express from "express";
+import "dotenv";
 
 import websRouter from "./routes/webs.js";
 
